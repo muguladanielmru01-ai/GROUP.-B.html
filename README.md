@@ -1,2 +1,2 @@
-# GROUP.-B.html
+# GROUP-B.html
 Website 
